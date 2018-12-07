@@ -1,0 +1,8 @@
+{
+“name”: “solo scrims”,
+“version”: “1.0.0”,
+“description”: “Waiting for players”,
+“main”: “bot.js”,
+“author”: “T-pot”,
+“dependencies”: {}
+}
